@@ -1,7 +1,55 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+# WhatsApp Landing Page
 
+This is a simple landing page template for WhatsApp, built using Next.js and styled with Tailwind CSS. The page allows users to download the WhatsApp app and start chatting with friends and family.
+
+## Preview
+
+![WhatsApp Landing Page Preview](./preview.png)
+
+## Features
+
+- **Responsive Design:** The landing page is designed to adapt to different screen sizes, ensuring a seamless experience across various devices.
+- **WhatsApp Logo:** The WhatsApp logo is displayed using the Next.js `Image` component, optimizing the image for better performance and loading.
+- **Call-to-Action Button:** A prominent call-to-action button encourages users to download the app, linking them directly to the WhatsApp download page.
+- **Clean and Modern Design:** The page features a clean and modern design, making it visually appealing to users.
+
+## How to Use
+
+1. Clone or download the project files from the [GitHub repository](https://github.com/example/whatsapp-landing-page).
+2. Make sure you have Node.js and npm installed on your machine.
+3. Install the project dependencies by running `npm install` in the project directory.
+4. Place your WhatsApp logo image file (e.g., `whatsapplogo.png`) inside the `public` directory.
+5. Open the `WhatsAppPage.js` file in the `pages` directory and customize the content, such as changing the WhatsApp logo image file name and updating the page title.
+6. Optionally, you can further customize the page's styles by modifying the Tailwind CSS classes in the `WhatsAppPage.js` file.
+7. Run the application in development mode with `npm run dev`.
+8. Access the WhatsApp landing page in your browser at `http://localhost:3000`.
+
+## Dependencies
+
+- [Next.js](https://nextjs.org/): A React framework for server-rendered applications.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
+- [Node.js](https://nodejs.org/): A JavaScript runtime for building server-side applications.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Author
+
+This WhatsApp landing page template is created and maintained by [Mercy Okebiorun](https://github.com/kikibyt).
+
+## Contributions
+
+Contributions to improve and enhance the template are welcome! Please create a pull request with your proposed changes.
+
+---
+
+Thank you for using this WhatsApp landing page template! We hope it helps you create an engaging and visually appealing landing page for your WhatsApp application. If you have any questions or feedback, feel free to reach out to us.
+
+Happy coding! 😊
 First, run the development server:
 
 ```bash
