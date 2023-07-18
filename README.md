@@ -7,7 +7,8 @@ This is a simple landing page template for WhatsApp, built using Next.js and sty
 
 ## Preview
 
-![WhatsApp Landing Page Preview](./preview.png)
+![WhatsApp Landing Page Preview](.![WhatsApp Image 2023-07-18 at 16 39 57](https://github.com/kikibyt/whatsapp-download-next.js/assets/127496130/302bebe7-de79-4704-ac0f-deda40f6b957)
+/)
 
 ## Features
 
